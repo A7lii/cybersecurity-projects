@@ -1,0 +1,11 @@
+SSH Log Analysis Report
+Generated: 2026-06-28 07:09:14
+
+Suspicious IPs:
+  192.168.1.10 - 6 failures - users tried: admin, root
+  10.0.0.5 - 7 failures - users tried: admin, user, test, root
+
+All failed logins:
+  192.168.1.10: 6 failure(s)
+  10.0.0.5: 7 failure(s)
+  192.168.1.99: 1 failure(s)

@@ -1,0 +1,10 @@
+{
+  "created": "2026-06-28 07:19:40",
+  "directory": "./watched_folder",
+  "file_count": 3,
+  "hashes": {
+    "config.txt": "69b638756efbd68f3f0a49db8e9ee4077f931972c4876499e1b947433d3001ca",
+    "data.txt": "b71e421a4e122defc10638c26bb810d9576732c69935bb21301501555091602a",
+    "settings.txt": "5fe7fa6f8e29374eb1971a8530af02af769e59c5735e8c4170a6f015702fa84e"
+  }
+}
